@@ -1,6 +1,6 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
+/.idea
 /build
+/local.properties
+.gradle
+CreditCardView.iml
+.DS_Store
